@@ -1,5 +1,5 @@
 // test for mux
-
+// https://liteos.github.io/tutorials/kernel/example14.html#%E4%BB%A3%E7%A0%81%E8%AE%B2%E8%A7%A3
 UINT32 Example14_Entry(VOID) {
     UINT32 uwRet = LOS_OK;
     TSK_INIT_PARAM_S stInitParam = {0};
